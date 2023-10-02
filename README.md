@@ -1,3 +1,3 @@
-# Ritchy Permissive License v15
+# Microsoft Public License
 
-View at: https://thelicensinggroup.github.io/ritchey-permissive-license-v15
+View at: https://thelicensinggroup.github.io/microsoft-public-license
